@@ -165,11 +165,3 @@ component-level (not IC-level) implementation.
 
 ---
 
-## Repo TODOs before you publish
-
-- [ ] Drop your actual `.asc` LTspice source file into `ltspice/` (you have the sim, just
-      need the source file — check your laptop/LTspice recent files if you don't have it
-      saved elsewhere).
-- [ ] Add a one-paragraph "Getting Started" if you want others to be able to open the sim.
-- [ ] Optional: redraw the hand-drawn schematic in KiCad/EasyEDA for a cleaner repo image —
-      good "polish" signal for recruiters, not required for the project to be valid.
